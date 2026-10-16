@@ -16,15 +16,12 @@ public class Uts {
        for( int i = 1;i <=bilangan ; i++){
     
         hasil = hasil*i;
-        if (i<1){}
-
        
-       System.out.println(hasil);
        }
        
         sc.close();
        
-       }
+       }System.out.println(hasil);
 
     }
 }
